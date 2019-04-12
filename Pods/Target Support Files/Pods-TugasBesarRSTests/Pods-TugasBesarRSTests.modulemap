@@ -1,0 +1,6 @@
+framework module Pods_TugasBesarRSTests {
+  umbrella header "Pods-TugasBesarRSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
